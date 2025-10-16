@@ -140,6 +140,7 @@ We evaluate both **closed- and open-source MLLMs** on MT-Video-Bench. Closed-sou
  </em>
 </p>
 
+</details>
 
 ## 🪶 Citation
 
